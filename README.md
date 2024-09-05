@@ -3,7 +3,7 @@ Actualmente estoy trabajando en proyectos de análisis de datos enfocados en la 
 
 Pregúntame sobre análisis de datos, visualización de datos, creación de dashboards, modelos predictivos y cómo integrar el análisis de datos en la estrategia empresarial.
 
-Puedes contactarme enviando un correo a [diana_silva0617@outlook.com](mailto:diana_silva0617@outlook.com) o conectar conmigo en [![Linkedin Badge](https://img.shields.io/badge/-Noelia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/desilva617/)
+Puedes contactarme enviando un correo a [diana_silva0617@outlook.com](mailto:diana_silva0617@outlook.com) o conectar conmigo en [![Linkedin Badge](https://img.shields.io/badge/-Diana-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/desilva617/)
 
 
 
